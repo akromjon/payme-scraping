@@ -1,0 +1,19 @@
+curl 'https://api-e3abced5.payme.uz/api/users.log_in' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,uz-UZ;q=0.8,uz;q=0.7' \
+  -H 'app-version: 2.48' \
+  -H 'content-type: application/json; charset=UTF-8' \
+  -H 'device: 661a2f4b81db9176a3381b76; fwSw0dfWiG8zRVygGs3=ouXR6IapePSnEh6VDNI8pbm5mc3yopJzxnrJ7@FBqMuv;' \
+  -H 'origin: https://payme.uz' \
+  -H 'referer: https://payme.uz/' \
+  -H 'sec-ch-ua: "Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'track-id: 2ecd9d92a9ed24d03df45aa89d910538b18500dd33a6b19713686e954883e3b2' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36' \
+  -H 'x-accept-language: ru' \
+  -H 'x-captcha: 03AFcWeA5PLWccUJm6zvGBGH9EXbjI4QIJINnbmAEWxSXgsBvNqWQsJsJqGHWmIKZB7Qy4T_U_o0KVQuBs2xPCndeuyhOQzQRtMrECqic5_7kHEv0OW9T8crZp5YUFwT_NinwwkLdkymJ77Eav8Qz3eRRHNFC8XzZJvccqhH9Lh7y9chqTkX5VNq0lz-NMqUHRE7alokzHKhi-eM8wa2ZT4WTuHxHDfZnZ_XdHpdSTmRKdu6AN2C7U8mQDtRjoTmebJ7xRH8TmgP5hJ-FMB_AiJtHwlZPZ1oHodRXQbJhqf-IWz8o7UEUcUmSFJ3MU_wIbUFX-pklMZenaScX9kASutCCIEBDJW3SaY6na4iRDs_O_QaGE2-0TRUFnDCYtEW3mG2AHbRvZUlqxhLqJ5cxzrrs6xnD0zd_13Sj7akBqEEJbNibqxEdmOHEtdjau3-gxLahR6In71oktiW6YXG0_UycOvbIVFTouMPE2hzez_VJY0LBl-BFdaMFIuLTznNyGIAjZbHHz7EFZRE_KRMiaoTx-nTIby-jQT_01HcsUaYVYKiQmKZtALDbO9X6Lq8bLRj35QMWCThDqCmS1tQg1LOWArbqGjFOGrxd4x6gESrTGMP5LbJLob6x0FwymegJZHAjDtSvoQcxxpaoKYe7osZ2wDdKgDrgY9JYhREKjXqMN7uL_RykRVuwzZreIeeSRo_mrngpDe0U_tOFxeL9Ndx0swA1A_gYSUiQ9ovGyJ_mOtBKsfbgvBqXPVPjxLG4AsBbt70uGh9-GVVa7OQCJ203OvwE1Wzzx-OIPhdbxOiNNZnIfspLDcfhNf4MYzfvwv-7LRiv9v3agmJCFgcBWu1hMYSY9AkbI8QWTr1Gs0E9ozCd6cd8puAWxri9FIG1yxEVALpoPgzTRfN0JEWfzoHGuQX0RKL37s-nu0E7aJ8Deme9llth88wB9v1q4MUuce0MJSyQBI1V0qEI3P5Jho2ddHPXzwX2ROYMJhFk1A24BVzDGEF0A06xqRL_U2NGes8HglTvAE3E9a8EVyjhnqKSADtcIiniDhhFUDLKI5a2EJhAN8Hd5j-W_KIeVqe0P5nPAqebEZ9nys7n2Ts-E-sdYdtZFUlCKN_j1AS4ROu3Slf0zjOkamH-ZCglQWEhhWpIBqiuAxhDd1jf8UYqdC1OQzT5uVUpW3vpbswqr-3kHF7B0NmHgWSBrmKxYmeWaLMQ6ghyB68hqPue3BMNkEshF3au_NGYghAz4iiZj_W_wkPuMGHOXW0_x1Ex4__GGV3ilu4caCQNaLz5JPHQVcc7M6vZi7nUZ7f0qFIbYFH1whEAao0ALW_UCS2XRRpv7bxAPzhAPD8uyUL_DGz87nem5IvjmA219SVFDxtWpEfVhRlWoYqLyr_YPZrX56Jr3jPx36vAO466dMIY6sq7LX1RYEioSa6kMzVnngEp4IczDO6vwWsTkaDTqRqzSpa3esYo2vYJ1rsZePGNMzFhZEGWzzXkNmwCCWQksNLzG5nDQJL3QTfkHPCs4EtHSbCBFNeetdfD3LZEliOcqHG--imSNrxPPOsPn2eNul5uJVD8bskyv3rLmEcetTX-4pEA4nwAZKj6sT-bED0xYAalc9gGt0ioUwyaHycJYP5HvAH_BL92g1AKPF6FMNqpnpMSyB7oD4KizTIPbylQK-D4Dnlzp9E1dBi1GVA' \
+  --data-raw '{"method":"users.log_in","params":{"login":"990005303","password":"Akyprog@19981511"}}'
